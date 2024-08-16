@@ -1,2 +1,3 @@
 # Face-Recognition-Project
-Developed a Face recognition project which helps to detect the expression on human face using python and artificial Intelligence.
+
+I have developed a face recognition project using AI and Python libraries that can accurately detect and analyze facial expressions, identifying emotions such as happiness, neutrality, sadness, anger, and more. By leveraging advanced machine learning algorithms and computer vision techniques, the system processes real-time facial data to classify emotions with precision. This project can be applied in various fields, including human-computer interaction, customer service, and mental health monitoring, where understanding human emotions is crucial. The implementation is robust, scalable, and can be integrated into different applications to enhance user experiences by making them more emotionally aware.
